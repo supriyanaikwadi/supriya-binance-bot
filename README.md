@@ -26,6 +26,3 @@ python run_bot.py twap BTCUSDT BUY 0.01 5 60
 python run_bot.py grid BTCUSDT BUY 0.01 60000 70000 5
 ```
 
-## Notes
-- This is for educational/testing purposes. Use testnet keys or dry-run mode for development.
-- Always validate orders before sending real money.
